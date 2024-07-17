@@ -1,6 +1,10 @@
-# talhatarique
+# talhatarique An npm package for your professional information
 
-`talhatarique` is an npm package that provides information about Talha Tarique, a Full Stack Developer specializing in building robust web applications from frontend to backend. With expertise in technologies such as React.js, Node.js, and MongoDB, I crafts scalable and responsive solutions that meet the demands of modern digital environments.
+
+## Description:
+
+This package provides a convenient way to display my professional information, including my name, occupation, company, location, social media links, skills, and experience.
+
 
 ## Installation
 

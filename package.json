@@ -1,0 +1,22 @@
+{
+  "name": "talhatarique",
+  "version": "1.0.0",
+  "description": "An npm package to describe my-self",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TalhaT298/talha-npm.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Talha Tarique",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TalhaT298/talha-npm/issues"
+  },
+  "homepage": "https://github.com/TalhaT298/talha-npm#readme"
+}

@@ -1,4 +1,4 @@
-# talhatarique An npm package for your professional information
+# talhatarique: An npm package for my professional information
 
 
 ## Description:
